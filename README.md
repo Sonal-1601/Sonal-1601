@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Sonal Pandey</h1>
+<marquee><h1 align="center">Hey! I'm Sonal Pandey</h1></marquee>
 <h3 align="center">A passionate Software developer from  ⬇️ </h3>
 
 <p align="left"> <img src="https://media.tenor.com/KgcSe5_KkqkAAAAd/milky-way-national-space-day.gif" alt="milkyway" height="400" width= "1000"/> </p>
