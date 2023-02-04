@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://media.tenor.com/l4QgI3qhZGAAAAAM/galaxy-knowledge.gif" alt="sonal-1601" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonal-1601" alt="sonal-1601" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/possiblysonal" target="blank"><img src="https://img.shields.io/twitter/follow/possiblysonal?logo=twitter&style=for-the-badge" alt="possiblysonal" /></a> </p>
 
