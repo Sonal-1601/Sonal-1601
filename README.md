@@ -5,7 +5,8 @@
   <title>My GitHub Profile Page</title>
   <style>
     body {
-      background-color: #333;
+      background-image: url('https://cdn.pixabay.com/photo/2012/04/14/16/26/universe-34499_960_720.jpg');
+      background-size: cover;
       font-family: 'Open Sans', sans-serif;
       color: #fff;
       text-align: center;
@@ -21,41 +22,43 @@
       border-radius: 50%;
       width: 200px;
       height: 200px;
-      margin: 0 auto;
-      display: block;
-    }
-    .bio {
-      font-size: 18px;
-      margin-top: 20px;
-      margin-bottom: 50px;
-    }
-    .repo-list {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-    }
-    .repo-card {
-      background-color: #444;
-      border-radius: 10px;
-      width: 300px;
-      height: 200px;
-      margin: 20px;
-      box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
-      overflow: hidden;
-    }
-    .repo-card h2 {
-      font-size: 24px;
-      font-weight: bold;
-      padding: 20px;
-      margin: 0;
-    }
-    .repo-card p {
-      font-size: 14px;
-      padding: 20px;
-      margin: 0;
-      text-align: justify;
-    }
-  </style>
+      margin:0 auto;
+display: block;
+border: 10px solid #fff;
+}
+.bio {
+font-size: 18px;
+margin-top: 20px;
+margin-bottom: 50px;
+}
+.repo-list {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+.repo-card {
+background-color: rgba(255, 255, 255, 0.7);
+border-radius: 10px;
+width: 300px;
+height: 200px;
+margin: 20px;
+box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+overflow: hidden;
+}
+.repo-card h2 {
+font-size: 24px;
+font-weight: bold;
+padding: 20px;
+margin: 0;
+}
+.repo-card p {
+font-size: 14px;
+padding: 20px;
+margin: 0;
+text-align: justify;
+}
+</style>
+
 </head>
 <body>
   <h1>Welcome to my GitHub Profile</h1>
