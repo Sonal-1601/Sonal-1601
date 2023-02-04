@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sonal Pandey</h1>
+<h1 align="center">Hey 👋, I'm Sonal Pandey</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonal-1601&label=Profile%20views&color=0e75b6&style=flat" alt="sonal-1601" /> </p>
+<p align="left"> <img src="https://media.tenor.com/l4QgI3qhZGAAAAAM/galaxy-knowledge.gif" alt="sonal-1601" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonal-1601" alt="sonal-1601" /></a> </p>
 
