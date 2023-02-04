@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Sonal Pandey</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://media.tenor.com/l4QgI3qhZGAAAAAM/galaxy-knowledge.gif" alt="sonal-1601" /> </p>
+<p align="left"> <img src="https://media.tenor.com/l4QgI3qhZGAAAAAM/galaxy-knowledge.gif" alt="sonal-1601" height="500" width= "400"/> </p>
 
-body { background-image:url('https://media.tenor.com/l4QgI3qhZGAAAAAM/galaxy-knowledge.gif'); background-repeat:repeat; }
+
 
 
 
