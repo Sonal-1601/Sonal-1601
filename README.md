@@ -1,4 +1,4 @@
-<marquee><h1 align="center">Hey! I'm Sonal Pandey</h1></marquee>
+<h1 align="center">Hey! I'm Sonal Pandey</h1>
 <h3 align="center">A passionate Software developer from  ⬇️ </h3>
 
 <p align="left"> <img src="https://media.tenor.com/KgcSe5_KkqkAAAAd/milky-way-national-space-day.gif" alt="milkyway" height="400" width= "1000"/> </p>
@@ -16,11 +16,11 @@
 - 📫 How to reach me **pandeysonal1601@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/possiblysonal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="possiblysonal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sonal-pandey-716k91s02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonal-pandey-716k91s02" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18202669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18202669" height="30" width="40" /></a>
-<a href="https://instagram.com/possiblysonal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="possiblysonal" height="30" width="40" /></a>
+<p align="left" style="display: flex; justify-content: space-between;">
+  <a href="https://twitter.com/possiblysonal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="possiblysonal" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sonal-pandey-716k91s02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonal-pandey-716k91s02" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/18202669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18202669" height="30" width="40" /></a>
+  <a href="https://instagram.com/possiblysonal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="possiblysonal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
