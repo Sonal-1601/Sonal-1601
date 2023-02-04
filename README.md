@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://media.tenor.com/l4QgI3qhZGAAAAAM/galaxy-knowledge.gif" alt="sonal-1601" /> </p>
 
+body { background-image:url('https://media.tenor.com/l4QgI3qhZGAAAAAM/galaxy-knowledge.gif'); background-repeat:repeat; }
+
 
 
 <p align="left"> <a href="https://twitter.com/possiblysonal" target="blank"><img src="https://img.shields.io/twitter/follow/possiblysonal?logo=twitter&style=for-the-badge" alt="possiblysonal" /></a> </p>
