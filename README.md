@@ -33,21 +33,11 @@
 </pre>
 
 <p align="center">
-  <em>decoding reality…</em>
-</p>
-
-<p align="center">
   <img src="https://media.tenor.com/KgcSe5_KkqkAAAAd/milky-way-national-space-day.gif"
        alt="milkyway"
        width="1000"
        height="400"/>
 </p>
-
-<!-- ================= CRT SCANLINE EFFECT ================= -->
-<p align="center">
-  <img src="https://i.imgur.com/8KZQZgH.png" width="1000" alt="crt-scanlines"/>
-</p>
-
 
 ---
 
