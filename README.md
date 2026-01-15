@@ -52,12 +52,13 @@ Status      : ONLINE
 Theme       : MATRIX_GREEN
 ```
 🧪 SYSTEM.MONITOR
+```bash
 CPU Usage   : █████████░░░░░░░ 68%
 RAM Usage   : ████████████░░░░ 76%
 GPU Status  : ACTIVE
 Temp        : 42°C
 Uptime      : 24d 07h 16m
-
+```
 > system stable ✔ no memory leaks detected
 
 
