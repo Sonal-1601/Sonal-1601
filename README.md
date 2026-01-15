@@ -26,6 +26,21 @@
   <img src="https://i.imgur.com/1ZQZ1Zm.gif" width="1000" alt="matrix-rain"/>
 </p>
 
+<!-- ================= ASCII MATRIX RAIN ================= -->
+<pre>
+<span style="color:#00ff9c;">
+0 1 0 1 1 0 0 1 0 1 0 1
+  1 0 1 0 1 1 0 1 0
+0 1 0 1 0 0 1 1 0 1
+    1 0 1 1 0 1 0
+0 1 0 1 0 1 1 0 1 0
+</span>
+</pre>
+
+<p align="center">
+  <em>decoding reality…</em>
+</p>
+
 <p align="center">
   <img src="https://media.tenor.com/KgcSe5_KkqkAAAAd/milky-way-national-space-day.gif"
        alt="milkyway"
@@ -37,6 +52,7 @@
 <p align="center">
   <img src="https://i.imgur.com/8KZQZgH.png" width="1000" alt="crt-scanlines"/>
 </p>
+
 
 ---
 
@@ -50,10 +66,21 @@ Email       : pandeysonal1601@gmail.com
 Status      : ONLINE
 Theme       : MATRIX_GREEN
 ```
+🧪 SYSTEM.MONITOR
+CPU Usage   : █████████░░░░░░░ 68%
+RAM Usage   : ████████████░░░░ 76%
+GPU Status  : ACTIVE
+Temp        : 42°C
+Uptime      : 24d 07h 16m
+
+> system stable ✔ no memory leaks detected
+
+
 🌐 CONNECT.EXE
-> establishing social connections...
-> signal strength: ██████████ 100%
-> connection stable ✔
+
+establishing social connections...
+signal strength: ██████████ 100%
+connection stable ✔
 
 <p align="left"> <a href="https://twitter.com/possiblysonal" target="blank"> <img src="https://img.shields.io/twitter/follow/possiblysonal?logo=twitter&style=for-the-badge&color=00ff9c" /> </a> </p> <p align="left"> <a href="https://twitter.com/possiblysonal" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/> </a> <a href="https://linkedin.com/in/sonal-pandey-716k91s02" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/> </a> <a href="https://stackoverflow.com/users/18202669" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30"/> </a> <a href="https://instagram.com/possiblysonal" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/> </a> </p>
 🛠️ LANGUAGES & TOOLS
