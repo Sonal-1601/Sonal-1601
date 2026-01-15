@@ -21,11 +21,6 @@
 <h1 align="center">👾 Hey! I'm Sonal Pandey</h1>
 <h3 align="center">A passionate Software Developer from the cosmos 🌌</h3>
 
-<!-- ================= MATRIX RAIN ILLUSION ================= -->
-<p align="center">
-  <img src="https://i.imgur.com/1ZQZ1Zm.gif" width="1000" alt="matrix-rain"/>
-</p>
-
 <!-- ================= ASCII MATRIX RAIN ================= -->
 <pre>
 <span style="color:#00ff9c;">
